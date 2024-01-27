@@ -6,7 +6,7 @@ I have set a basic server, with a folder for backend, that inside that folder we
 ### Commit 1.5:
 I've added async support.
 
-## Commit 2: Adding CRUD and mongoDB
+## Commit 2: Potential Unearthed: Tapping into CRUD and MongoDB Magic
 I've added mongoDB basic functionality.
 1. We have a config folder that has a 'db.js' file that deals with connecting to the mongoDB database.
 2. We have 'models' folder, for our mongoDB collections, right now we only added goalModel, soon we will add also the user model and functionality.
