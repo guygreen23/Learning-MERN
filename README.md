@@ -16,3 +16,8 @@ I've added mongoDB basic functionality.
 1. We've added user model and databse.
 2. We've installed bcryptjs and jsonwebtoken in order to handle authentication and passwords safety.
 3. We made our CRUD use protect and have authorization functionality. Users can edit and delete only their own goals.
+
+## Commit 4: Getting to the front
+We began working on our front end, using react-create-app
+1. We've created 3 pages, a dashboard to act as homepage, login and register.
+2. We've added forms to log in and register.
