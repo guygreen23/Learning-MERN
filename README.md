@@ -6,7 +6,7 @@ I have set a basic server, with a folder for backend, that inside that folder we
 ### Commit 1.5:
 I've added async support.
 
-## Commit 2: Potential Unearthed: Tapping into CRUD and MongoDB Magic
+## Commit 2: Tapping into CRUD and MongoDB
 I've added mongoDB basic functionality.
 1. We have a config folder that has a 'db.js' file that deals with connecting to the mongoDB database.
 2. We have 'models' folder, for our mongoDB collections, right now we only added goalModel, soon we will add also the user model and functionality.
@@ -22,5 +22,5 @@ We began working on our front end, using react-create-app
 1. We've created 3 pages, a dashboard to act as homepage, login and register.
 2. We've added forms to log in and register.
 
-## Commit 5: Redux, Axios, and other bridges.
+## Commit 5: Redux, Axios, and others.
 I began using redux, and are connecting the frontend to the backend using axios.
